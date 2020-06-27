@@ -1,6 +1,4 @@
 import re
-from typing import List
-
 
 class Notation(object):
     def __init__(self):
